@@ -1,5 +1,5 @@
 # clectricDIY-Guidebook
-The Guidebook for the history and works of the clectricDIY Community.
+The Guidebook for the history and works of the clectric.diy Community.
 
 One day our clectric.diy Community may bind and sell a this Guidebook either digitally or as a collection of pages made from the pulp of dead trees.
 
